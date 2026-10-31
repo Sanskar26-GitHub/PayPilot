@@ -1,0 +1,6 @@
+{
+  "name": "PayPilot",
+  "description": "AI-powered invoice and PayPal payment management for freelancers, consultants, and small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
